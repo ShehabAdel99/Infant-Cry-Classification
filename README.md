@@ -1,7 +1,7 @@
 # Infant Cry Type Classification
 
 
-This project aims to classify different types of infant cries based on audio spectrograms using machine learning techniques. The notebook provided here demonstrates the process of extracting features from audio files, generating spectrogram images, training a convolutional neural network (CNN) model, and evaluating its performance in classifying infant cry types.
+This project aims to classify different types of infant cries based on audio spectrograms using deep learning techniques. The notebook provided here demonstrates the process of extracting features from audio files, generating spectrogram images, training a convolutional neural network (CNN) model, and evaluating its performance in classifying infant cry types.
 
 ## Data Preprocessing
 
